@@ -1,9 +1,9 @@
 import React from 'react'
-import  createform  from "./createform";
+import  Createform  from "./createform";
 const Createpost = () => {
   return (
     <div>
-      < createform />
+      < Createform />
     </div>
   )
 }
