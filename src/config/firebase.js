@@ -12,7 +12,7 @@ const firebaseConfig = {
   storageBucket: "pigeon-6a5a4.appspot.com",
   messagingSenderId: "101354337358",
   appId: "1:101354337358:web:de093cc80b07fd5ca67f1f"
-};
+}; 
 
 // Initialize Firebase
 
